@@ -7,6 +7,7 @@ Using
 These easiest way to use these notebooks is to install IPython Notebook. Then execute:
 
 ::
+
    $ ipython notebook
 
 Out of the directory where you have placed these files. This will also work on Windows.
