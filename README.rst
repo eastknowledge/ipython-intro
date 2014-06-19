@@ -1,6 +1,6 @@
 Introduction
 ------------
-These are notebooks I used during an Introduction to IPython Notebook talk I gave. I used IPython Notebook v2.0 for the talk, but I don't think I used any advanced features that require a particular version.
+These are notebooks I used during an Introduction to IPython Notebook talk I gave for EAST Knowledge (http://eastknow.org). I used IPython Notebook v2.0 for the talk, but I don't think I used any advanced features that require a particular version.
 
 Using
 -----
